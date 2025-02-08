@@ -1,5 +1,3 @@
-// Complete README.md and Next.js project setup for a Financial Advisory Bot
-
 # Financial Advisory Chatbot
 
 ## Introduction
